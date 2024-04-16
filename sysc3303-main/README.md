@@ -43,6 +43,7 @@ Set up instructions: Run SchedulerMain.java, FloorMain.java, and ElevatorMain.ja
 Breakdown of responsibilities:
 
     Floor Subsystem: Alexander
-    Scheduler: Gavin and Philip
+    Scheduler: Gavin, Philip and Alexander
     Elevator Subsystem: Philip and Christian
-    UML diagrams: Gavin and Philip
+    UML diagrams: Gavin, Philip and Alexander
+    
